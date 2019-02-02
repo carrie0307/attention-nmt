@@ -1,0 +1,41 @@
+双向RNN翻译：https://github.com/VectorFist/RNN-NMT/tree/master/NMT
+
+seq2seq + Attention: https://github.com/JayParks/tf-seq2seq
+
+Attention seq2seq代码： https://zhuanlan.zhihu.com/p/48426550 !!!
+
+Neural Machine Translation seq2seq Tutorial https://github.com/tensorflow/nmt/tree/tf-1.4 !!!
+
+文本分类Attention: https://github.com/xieyufei1993/TextClassification-Tensorflow
+
+seq2seq详解 https://blog.csdn.net/liuchonge/article/details/79041698
+
+
+
+机器之心: https://github.com/jiqizhixin/ML-Tutorial-Experiment 含transformer
+
+Transformer: https://github.com/Kyubyong/transformer
+
+Transformer 代码实现  https://yuanxiaosc.github.io/2018/11/08/Transformer%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/ ***
+
+Trnsformer 源码总结 https://blog.csdn.net/yiyele/article/details/81913031
+
+机器翻译模型 Transformer代码解析 https://blog.csdn.net/mijiaoxiaosan/article/details/74909076  **
+
+Transformer 代码详解 http://lib.csdn.net/article/aiframework/68187   **  和上一篇是否一样？？
+
+“变形金刚”为何强大：从模型到代码全面解析Google Tensor2Tensor系统 https://cloud.tencent.com/developer/article/1153079
+
+
+Transformer:
+
+https://blog.csdn.net/bobobe/article/details/82629393
+
+https://www.codercto.com/a/38440.html
+
+
+RNN + Attention 分类: https://github.com/SeanLee97/rnn-attention-classifier
+
+seq2seq attention解释: https://zhuanlan.zhihu.com/p/27769667
+
+torch: https://github.com/xuwenshen/Machine-Translation
